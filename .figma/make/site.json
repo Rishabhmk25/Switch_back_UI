@@ -1,0 +1,10 @@
+{
+  "description": "Experience a calm, privacy-focused browsing environment with intuitive controls, customizable workspaces, and seamless memory management for enhanced productivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
